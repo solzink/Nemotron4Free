@@ -2,6 +2,7 @@
 
 **Nemotron4Free** is a lightweight Python wrapper for the [NEMOTRON](https://nemotron.one) chat API. It allows you to send prompts and receive responses easily — with optional streaming support.
 
+- Should I make it even bigger by adding the bad "action" figure generator (account-less?)
 # ⭐ Feel Free to Star!
 
 > ⚠️ No authentication or API key is required — the NEMOTRON API currently accepts any request, so `Nemotron4Free` works without login or account setup.
