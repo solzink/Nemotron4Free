@@ -19,7 +19,7 @@ pip install Nemotron
 Or from source:
 
 ```bash
-git clone https://github.com/Ramona-Flower/Nemotron4Free.git
+git clone https://github.com/Cyn-ically/Nemotron4Free.git
 cd Nemotron4Free
 pip install .
 ```
@@ -128,7 +128,7 @@ else:
 ---
 
 # ✨ Author
-Created with ❤️ by Ramona-Flower
+Created with ❤️ by Cyn-ically
 
 # 📊 Stats
 
