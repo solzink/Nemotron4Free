@@ -2,6 +2,8 @@
 
 If you own a premium account you can use those new model, using model parameter : `kimi_k2`; `claude3_5`; `grok4`
 
+---
+
 **Nemotron4Free** is a lightweight Python wrapper for the [NEMOTRON](https://nemotron.one) chat API. It allows you to send prompts and receive responses easily — with optional streaming support.
 
 - Should I make it even bigger by adding the bad "action" figure generator (account-less?)
